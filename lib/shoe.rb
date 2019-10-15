@@ -6,5 +6,5 @@ class shoe
   def initialize(brand_name)
     @brand = brand_name
   end
-  
+
 end
